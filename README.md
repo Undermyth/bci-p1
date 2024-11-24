@@ -1,3 +1,9 @@
+浙江大学脑机智能导论（2024秋冬）实验一参考代码。
+
+包括 tuning curve、$R^2$分布、使用三种方法解码运动的解法。
+
+仓库中的代码均为个人解答，仅作参考。
+
 An example solution for Introduction to Brain-Computer Interface, project 1.
 <center>
   <img src="https://github.com/Undermyth/bci-p1/blob/main/pics/r2.png"> 
